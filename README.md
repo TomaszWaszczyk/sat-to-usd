@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+https://github.com/apexcharts/react-apexcharts
+
+https://www.fusioncharts.com/fusiontime/examples/annotating-multiple-data-points
+
+https://apexcharts.com/react-chart-demos/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
